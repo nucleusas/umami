@@ -128,5 +128,9 @@
     "stylelint-config-prettier": "^8.0.1",
     "stylelint-config-recommended": "^3.0.0",
     "tar": "^6.0.5"
+  },
+  "engines": {
+    "npm": "7.0.x",
+    "node": "12.18.x"
   }
 }
